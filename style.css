@@ -238,3 +238,50 @@ span{
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+footer{
+    margin-top: 15px;
+}
+.footer-pannel{
+    background-color: rgb(7, 7, 103);
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+}
+.footer-pannelTwo{
+    background-color: rgb(30, 30, 131);
+    color: white;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer ul{
+    margin-top: 15px;
+}
+footer ul a{
+    display: block;
+    font-size: 0.8rem;
+    margin-top: 18px;
+    color: #dddddd;
+}
+.footer-pannelThree{
+    background-color: rgb(30, 30, 131);
+    color: white;
+    height: 70px;
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-logo{
+    height: 50px;
+    width: 100px;
+}
+.footer-pannelFour{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
